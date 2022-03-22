@@ -1,2 +1,3 @@
 # zmk-config-yuri
-this zmk config on yuri with nice!nano v2
+
+this zmk config on yuri keyboard powered with nice!nano v2

@@ -10,12 +10,11 @@
 #include <dt-bindings/zmk/outputs.h>
 #include <dt-bindings/zmk/rgb.h>
 
-#define BASE  0     // alphas (Colemak-DH)
-#define QWRTY 1     // alphas (Qwerty)
-#define NAV   2     // navigation
-#define FUNC  3     // functions
-#define KEYPD 4     // multimedia & keypad
-#define ADJST 5     // bluetooth & rgb
+#define BASE  0     // default
+#define NUM   1     // numrow
+#define NAV   2     // navigation and function
+#define MED   3     // multimedia and macro if need
+#define ADJST 4     // bluetooth setting
 
 // Special keys
 #define ZOOMOUT  LA(LG(MINUS))
