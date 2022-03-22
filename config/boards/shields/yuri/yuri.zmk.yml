@@ -1,9 +1,8 @@
 file_format: "1"
-id: dilly
-name: Dilly
+id: yuri
+name: Yuri
 type: shield
-url: https://keeb.io/products/dilly-3x10-ortholinear-keyboard-for-kailh-choc-low-profile-switches
+url: https://github.com/oceeean
 requires: [pro_micro]
 features:
   - keys
-  - underglow
